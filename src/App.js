@@ -1,4 +1,3 @@
-import "./App.css";
 import { Routes, Route } from "react-router-dom";
 import ReadFile from "./Pages/ReadFile";
 import Output from "./Pages/Output";
